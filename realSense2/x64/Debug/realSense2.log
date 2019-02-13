@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\program files (x86)\intel realsense sdk 2.0\samples\example.hpp(195): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\realsense2\realsense2\source.cpp(67): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\realsense2\realsense2\source.cpp(219): warning C4477: 'printf' : format string '%i' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+  c:\users\user\documents\visual studio 2015\projects\realsense2\realsense2\source.cpp(219): note: consider using '%zi' in the format string
+  realSense2.vcxproj -> C:\Users\user\Documents\Visual Studio 2015\Projects\realSense2\x64\Debug\realSense2.exe
+  realSense2.vcxproj -> C:\Users\user\Documents\Visual Studio 2015\Projects\realSense2\x64\Debug\realSense2.pdb (Partial PDB)

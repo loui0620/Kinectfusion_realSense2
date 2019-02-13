@@ -1,0 +1,14 @@
+#pragma once
+#include <iostream>
+#include <algorithm>
+#include <vector>
+#include <thread>
+#include <chrono>
+#include <librealsense2\rs.hpp>
+#include "example.hpp"
+#include <opencv2\core.hpp>
+#include <opencv2\opencv.hpp>
+#include <opencv2\highgui.hpp>
+#include <opencv2\imgcodecs.hpp>
+#include <opencv2\core\core.hpp>
+#include <opencv2\highgui\highgui_c.h>

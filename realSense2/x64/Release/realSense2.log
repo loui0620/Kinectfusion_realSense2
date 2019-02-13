@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Program Files (x86)\Intel RealSense SDK 2.0\samples\example.hpp(195): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Source.cpp(67): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+Source.cpp(221): warning C4477: 'printf' : format string '%i' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+  Source.cpp(221): note: consider using '%zi' in the format string
+  Generating code
+  All 1061 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  realSense2.vcxproj -> C:\Users\user\Documents\Visual Studio 2015\Projects\opencv_kinfu\x64\Release\realSense2.exe
+  realSense2.vcxproj -> C:\Users\user\Documents\Visual Studio 2015\Projects\opencv_kinfu\x64\Release\realSense2.pdb (Full PDB)
